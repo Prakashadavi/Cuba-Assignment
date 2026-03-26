@@ -231,9 +231,7 @@ h1{
 
 .next{
   right:20px;
-  transform: translateY(-5px);
-  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
-  border: 1px solid #0b5d2a;
+  
 }
 
 .dots{
