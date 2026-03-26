@@ -204,7 +204,7 @@ h1{
 }
 
 .main-image img{
-  width:100%;
+  width:80%;
   border-radius:12px;
 }
 
@@ -395,7 +395,7 @@ input[type="radio"]{
 }
 
 .left-box img{
-  width:80px;
+  width:0%;
   height: 100px;
   margin-top:10px;
 }
