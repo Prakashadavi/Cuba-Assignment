@@ -204,7 +204,7 @@ h1{
 }
 
 .main-image img{
-  width:100%;
+  width:80%;
   border-radius:12px;
 }
 
@@ -227,7 +227,7 @@ h1{
 }
 
 .next{
-  right:15px;
+  right:60px;
 }
 
 .dots{
@@ -388,7 +388,6 @@ input[type="radio"]{
   border-radius:10px;
   padding:12px;
   text-align:center;
-  
 }
 .left-box p{
   color:#919798;
@@ -495,7 +494,6 @@ input[type="radio"]{
   }
 
 }
-
 
 
 /* my third page */
